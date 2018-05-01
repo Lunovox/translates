@@ -1,10 +1,10 @@
-if minetest.setting_getbool("language")== nil or minetest.setting_getbool("language")=="" then
-	minetest.setting_set("language", "pt")
-end
-
-
 local path = minetest.get_modpath(minetest.get_current_modname())
-local language = minetest.setting_get("language")
+
+local language = core.setting_get("language")
+if language== nil or language=="" then
+	language = "pt"
+	core.setting_set("language", language)
+end
 local translatefile = path.."/languages/".. language ..".lua"
 
 if io.open(translatefile) then
