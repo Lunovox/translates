@@ -1,33 +1,30 @@
-# Mod para Minetest
+# TRANSLATES
 
-	* Descrição........: Este mod traduz a descrição do item para o idioma definido nas configurações.
-	* licença de código: GPLv3+
-	* depende..........: nada, exceto todos os mods já utilzados em seu servidor sendo listados em 'depends.txt'. Por isso é carregado após eles.)
+[Minetest Mod] Easily translate all standard items and items from other mods to many other languages than standard English. 
 
-## Idiomas atualmente suportados:
+## license: 
+ * [aGPL v.03](https://github.com/Lunovox/translates/blob/master/LICENSE)
 
-	* pt = Português
-	* de = Alemão
-	* fr = Francês
-	* it = Italiano
+## depends
+ * Nothing except all the mods already used on your server being listed in ````depends.txt````. (So this mod loaded after all the other mods)
 
-## Ativando um idioma:
+## Developers:
+ * [Lunovox Heavenfinder](https://libreplanet.org/wiki/User:Lunovox)
 
-	Para ativar um idioma basta digitar o comando: /set -n language <idioma>
+## Currently supported languages:
 
-	* Exemplo:  /set -n language <idioma>
+	* pt = Portugues
+	* You can include your language for this list. Just get in touch with our developers, or submit a Issues containing your translation.
+
+## Activating a Language:
+	To activate a language simply enter the command: /set -n language <idioma>
+
+	* Example:  /set -n language <idioma>
 	
-	Caso nenhum idioma configurado, será setado por padrão o idioma "pt".
+	If no language is set, the language "pt" is set by default.
 
-## Adicionando um novo idioma
-
-	* Cópia sample_language.lua para seu próprio idioma
-	* Renomeá-lo de acordo com seu próprio código de linguagem, em letras maiúsculas
-	* Traduzir :)
-
-## Adicionando novas cadeias
-
-	* Primeiro adicioná-los - sem tradução - a sample_language.lua
-	* Em seguida, adicioná-los novamente - traduzido, desta vez - para qualquer idioma que você quer / pode.
-
-Dessa forma, outros tradutores só teria que sample_language.lua "diff" para manter o controle de adições.
+## Adding a new language:
+	* Make a 'pt.lua' copy for your own language.
+	* Rename according to your own language code, in lowercase letters.
+	* Translate!
+	* Ready! :)
