@@ -320,7 +320,7 @@ translate = {
 	{"flowers:viola",					"Flor Violeta"},
 	{"flowers:mushroom_brown",		"Cogumelo Marrom"},
 	{"flowers:mushroom_red",		"Cogumelo Vermelho"},
-	{"flowers:waterlily",			"Nnenúfar"},
+	{"flowers:waterlily",			"Nenúfar"},
 
 
 	-- screwdriver
