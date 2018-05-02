@@ -17,6 +17,7 @@
 ## Activating a Language
 To activate a language simply enter the command:
  * ````/set -n language <idioma>````
+
 Example for the Spanish language:
  * ````/set -n language es````
 	
