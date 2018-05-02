@@ -158,7 +158,8 @@ translate = {
 	{"default:aspen_tree",				"Tronco de Álamo"},
 	{"default:aspen_wood",				"Tábua de Álamo"},
 
-	{"default:pine_needles",			"Agulhas de Pinheiro (Plantável)"},
+	{"default:pine_needles",			"Folhas agulhadas de Pinheiro"},
+	{"default:pine_sapling",			"Muda de Pinheiro (Plantável)"},
 	{"default:pine_tree",				"Tronco de Pinheiro"},
 	{"default:pine_wood",				"Tábua de Pinheiro"},
 
