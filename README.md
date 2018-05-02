@@ -1,8 +1,7 @@
 # TRANSLATES
-
 [Minetest Mod] Easily translate all standard items and items from other mods to many other languages than standard English. 
 
-## license:
+## license
  * [aGPL v.03](https://github.com/Lunovox/translates/blob/master/LICENSE)
 
 ## depends
@@ -12,19 +11,19 @@
  * [Lunovox Heavenfinder](https://libreplanet.org/wiki/User:Lunovox)
 
 ## Currently supported languages
-	* pt ← Portugues
-	* You can include your language for this list. Just get in touch with our developers, or submit a Issues containing your translation.
+ * pt ← Portugues
+ * You can include your language for this list. Just get in touch with our developers, or submit a Issues containing your translation.
 
-## Activating a Language:
-	To activate a language simply enter the command:
-		* ````/set -n language <idioma>````
-	Example for the Spanish language:
-		* ````/set -n language es````
+## Activating a Language
+To activate a language simply enter the command:
+ * ````/set -n language <idioma>````
+Example for the Spanish language:
+ * ````/set -n language es````
 	
-	If no language is set, the language "pt" is set by default.
+If no language is set, the language "pt" is set by default.
 
 ## Adding a new language
-	* Make a 'pt.lua' copy for your own language.
-	* Rename according to your own language code, in lowercase letters.
-	* Translate!
-	* Ready! :)
+ * Make a 'pt.lua' copy for your own language.
+ * Rename according to your own language code, in lowercase letters.
+ * Translate!
+ * Ready! :)
