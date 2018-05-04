@@ -2,7 +2,7 @@
 [Minetest Mod] Easily translate all standard game to many other languages than standard English.
 
 ## license
- * [aGPL v.03](https://github.com/Lunovox/translates/blob/master/LICENSE)
+ * [GNU AGPL v.03](https://github.com/Lunovox/translates/blob/master/LICENSE)
 
 ## depends
  * Nothing except all the mods already used on your server being listed in ````depends.txt````. (So this mod loaded after all the other mods)
