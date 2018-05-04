@@ -1,5 +1,5 @@
 # TRANSLATES
-[Minetest Mod] Easily translate all standard items and items from other mods to many other languages than standard English. 
+[Minetest Mod] Easily translate all standard game to many other languages than standard English.
 
 ## license
  * [aGPL v.03](https://github.com/Lunovox/translates/blob/master/LICENSE)
